@@ -1,0 +1,2 @@
+#!/bin/sh
+yum install -y boost-date-time boost-filesystem boost-program-options boost-regex boost-system boost-thread bzip2 bzip2-libs libicu libjpeg-turbo libmng qt qt-settings qt-x11 xerces-c xmlrpc-c xmlrpc-c-c++ xmlrpc-c-client xmlrpc-c-client++ 
